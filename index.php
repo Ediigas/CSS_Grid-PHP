@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
 
 <head>
-    <title>Card Point</title>
+    <title>Curso PHP</title>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,8 +14,8 @@
 
 <body>
     <header class="cabecalho">
-        <h1>Card Point</h1>
-        <h2>Working</h2>
+        <h1>Curso PHP</h1>
+        <h2>Índice de Exercícios</h2>
     </header>
 
 
@@ -26,7 +25,7 @@
                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicio.php?dir=teste&file=teste">Exercício A</a></li>
                         <li><a href="#">Exercício B</a></li>
                         <li><a href="#">Exercício C</a></li>
                     </ul>
@@ -103,8 +102,5 @@
     <footer class="rodape">
         github.com/Ediigas
     </footer>
-
-
 </body>
-
 </html>
